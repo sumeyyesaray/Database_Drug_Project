@@ -1,4 +1,4 @@
-# 💊 DrugMatrix – Multi-Feature Medicine Analytics System
+# 💊 Medicine – Multi-Feature Medicine Analytics System
 A relational database system designed to analyze large-scale pharmaceutical data, including medicines, usages, side effects, substitutes, chemical classes, therapeutic classes, action classes, and habit-forming information.
 
 This project was developed as part of the **DBMS Project Phase I** requirements.
@@ -48,6 +48,9 @@ The relational model is centered around the **Medicine** table and supported by 
 - **Usages**
 - **Side_Effect**
 - **Substitutes**
+- **Dosage**
+- **MedicineForms**
+- **DosageUnits**
 
 Multi-valued attributes (side effects, usages, substitutes) are represented using associative junction tables:
 
