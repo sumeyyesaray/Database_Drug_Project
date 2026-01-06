@@ -41,6 +41,9 @@ The project includes:
 ## 🧬 ER Diagram
 The relational model is centered around the **Medicine** table and supported by the following entities:
 
+<img width="1207" height="758" alt="image" src="https://github.com/user-attachments/assets/7a0d5084-5470-47a3-9e6e-23ca7378bb31" />
+
+
 - **ChemicalClasses**
 - **TherapeuticClass**
 - **ActionClass**
